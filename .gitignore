@@ -1,0 +1,24 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Browser profile (chứa cookies/session cá nhân)
+browser_profile/
+
+# Output data
+output/
+
+# Python virtual env
+venv/
+.venv/
+env/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
